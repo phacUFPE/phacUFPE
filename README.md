@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Pedro Cruz</h1>
 <h3 align="center">A passionate Brazilian developer always learning something new and trying to improve skills.</h3>
 
-- 💼 I’m currently working on **CIn/Motorola Project (Research Facility) at Federal University of Pernambuco**
+- 💼 I’m currently working on **Ingisht Global**
 
 - 🤝 I’m currently collaborating on [OpenTibiaBR](https://github.com/opentibiabr)
 
