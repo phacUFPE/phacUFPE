@@ -4,6 +4,7 @@
 - 💼 I’m currently working on **Ingisht Global**
 
 - 🤝 I’m currently collaborating on [OpenTibiaBR](https://github.com/opentibiabr)
+- 📄 I’m currently working on a side project called **ArcadiaOT**
 
 - 📫 How to reach me **pedro.ha.cruz2022@gmail.com**
 
